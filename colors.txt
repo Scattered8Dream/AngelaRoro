@@ -1,0 +1,5 @@
+Pale Purple = #F3E0EC
+Pale Purple(mais escuro) = #EAD5E6
+Royal Blue = #0A2463
+Branco = #FFFFFF
+Preto = #000000
